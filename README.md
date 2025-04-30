@@ -24,7 +24,7 @@ Our Round 1 strategies included:
 - **Kelp**: Market making based on moving average calculations
 - **Squid Ink**: Bollinger Band mean reversion strategy
 
-## Subsequent Rounds
+## Subsequent Rounds - Still Drafting
 
 - **Round 2**: We traded Gift Baskets with prices determined by underlying assets. Our strategy involved calculating implied price differences and trading based on synthetic basket values.
 - **Round 3**: Due to exam commitments, we were unable to participate actively.
