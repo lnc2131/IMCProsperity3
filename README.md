@@ -1,16 +1,10 @@
 # Algorithmic Trading Competition Experience
 
 ## Introduction
-From April 6-22, 2025, I participated in the Algorithmic Trading Competition as a personal challenge to develop my trading knowledge and enhance my Python coding and problem-solving skills.
+From April 6-22, 2025, I participated in the Algorithmic Trading Competition as a personal challenge to develop my trading knowledge and enhance my Python coding and problem-solving skills. When I began this challenge, I was midway through my FE459 Programming for Investments class, where I had gained experience coding the Black-Scholes Model to calculate implied volatility and learned other financial concepts like portfolio returns and descriptive statistics.
 
 ## The Competition Structure
-The competition consisted of multiple rounds featuring different challenges. Participants traded virtual seashells across various rounds, including both manual trading and algorithmic trading components. This blog focuses primarily on the algorithmic aspects of the competition, as they formed the core challenge and learning experience.
-
-## My Background
-When I began this challenge, I was midway through my FE459 Programming for Investments class, where I had gained experience coding the Black-Scholes Model to calculate implied volatility and learned other financial concepts like portfolio returns and descriptive statistics.
-
-## Initial Challenges
-As I started the competition, I quickly realized that while my academic knowledge was useful for data analysis, algorithmic trading was significantly more complex, requiring both a deeper understanding of market mechanics and more sophisticated Python skills than simply importing CSV files from Yahoo Finance.
+The competition consisted of multiple rounds featuring different challenges. Participants traded virtual seashells across various rounds, including both manual trading and algorithmic trading components.
 
 ## Getting Started
 During the pre-competition tutorial, I invested considerable time studying how to write effective trading algorithms. After reviewing a Wikipedia guide that provided a basic template for accessing market information and executing trades, I created my first algorithms through trial and error. To improve my approach, I needed a way to backtest my strategies. Fortunately, Jmerle, a long-time competition participant, had developed an open-source backtesting tool that I was able to use. This allowed me to visualize my trades and better understand my strategy's performance.
